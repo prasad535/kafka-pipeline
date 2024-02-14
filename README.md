@@ -1,2 +1,7 @@
 # kafka-pipeline
-This pipeline does the operations of consumer and producer
+
+Step 1: Firstly, will create the folder structure. Here, we write a code to create the folder structure.
+```
+touch template.py
+python template.py
+```
