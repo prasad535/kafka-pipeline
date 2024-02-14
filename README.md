@@ -95,3 +95,7 @@ step 8: Let's walk through the confluent kafka
     ```
     SCHEMA_REGISTRY_ENDPOINT = https://ltdr-4yfrk.in-east-1.aws.confluent.cloud
     ```
+
+Step 9: create .env file in the root directory and store all the credentials 
+
+Step 10: import all the credentials to src/kafka_config/__init__py
